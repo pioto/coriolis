@@ -93,6 +93,6 @@
     "react-number-editor": "Athanasius/react-number-editor.git#miggy",
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
-    "superagent": "^1.4.0"
+    "superagent": "^6.1.0"
   }
 }
